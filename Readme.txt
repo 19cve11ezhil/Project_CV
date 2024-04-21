@@ -7,4 +7,5 @@ trained_obj_detec_model.ipynb- This file contains the code that I used to train 
 
 postprocessing.ipynb         - This file contains the code that is used to do OCR to the detected texts and processing of the excel file.
 
+URL-3                        - https://drive.google.com/drive/folders/1Y6T7xoceYcbwbhhjCUkJT8ZOQRRMjzcg?usp=sharing
 
